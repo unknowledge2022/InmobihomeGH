@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655955948742",
+    "project_id": "inmobihome-43665",
+    "storage_bucket": "inmobihome-43665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655955948742:android:75e53855cb79559e8bd3c7",
+        "android_client_info": {
+          "package_name": "com.inmobihome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655955948742-a9hm76tni49pdtukt430dlqgimp757v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0BrwNPYuul4qMEPfQqnB3L_3TIVtYzpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655955948742-a9hm76tni49pdtukt430dlqgimp757v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

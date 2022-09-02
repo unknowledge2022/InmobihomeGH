@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Inmobihome</string>
+    <string name="access">Iniciar sesión con Google</string>
+
+
+    <string-array name="tipo">
+        <item>Casa</item>
+        <item>Departamento</item>
+        <item>Lote</item>
+    </string-array>
+
+    <string name="mapa">Mapa</string>
+    <string name="salir">Configuración</string>
+    <!--Google Client Id-->
+    <string name="web_client_id" translatable="false">655955948742-a9hm76tni49pdtukt430dlqgimp757v8.apps.googleusercontent.com</string>
+
+    <!-- Google ID -->
+    <string name="google_map_key" translatable="false">AIzaSyChRkxp-GaIOHHq2awBFJFYnM6VJbVuv7s</string>
+</resources>
